@@ -102,8 +102,8 @@
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify"/>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Paulo Cirelli Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31qggktlfepnpujglsxwufpteqki" alt="Data Card for Spotify"/>
 </details>
 </div>
 
