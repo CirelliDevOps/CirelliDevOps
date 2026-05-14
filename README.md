@@ -77,3 +77,7 @@
 </div>
 
 -----
+
+-----
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=Paulo&layout=normal&stats_format=bytes&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=3)](https://nice-readme.vercel.app/top-langs)
+-----
