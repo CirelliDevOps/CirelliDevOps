@@ -129,3 +129,5 @@
 </tr> 
 </table>
 </div>
+
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=Paulo&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
