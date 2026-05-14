@@ -81,3 +81,21 @@
 -----
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=Paulo&layout=normal&stats_format=bytes&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=3)](https://nice-readme.vercel.app/top-langs)
 -----
+
+-----
+<a href="https://nice-readme.vercel.app/wakatime" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/wakatime?username=Paulo&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=5" alt="WakaTime Stats" width="466" height="auto" loading="lazy" /></a>
+------
+
+<table>
+<tr>
+<td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@CirelliDevOps">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td>
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&langs_count=12"/></td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
